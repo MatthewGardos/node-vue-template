@@ -1,6 +1,7 @@
 {
     "name": "org",
     "private": true,
+    "type": "module",
     "scripts": {
         "frontend:dev": "cd ./frontend && vite",
         "frontend:build": "cd ./frontend && vite build",
