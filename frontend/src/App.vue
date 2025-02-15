@@ -1,8 +1,6 @@
 <script setup>
-console.log("Hello Wolrd")
+import { RouterView } from 'vue-router'
 </script>
 <template>
-    <div>
-        <h1>Hello World</h1>
-    </div>
+    <RouterView />
 </template>
